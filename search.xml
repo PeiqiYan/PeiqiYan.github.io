@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[YOU-GET]]></title>
+    <url>%2FEric%2Fe3594913%2F</url>
+    <content type="text"><![CDATA[偶然的发现今天突然想要下载B站上的视频，就在找各种方法解决，找来找去都觉得太麻烦。然后就偶然碰到了这个东西–you-get。 you-get 是一个基于 Python3 的下载工具。意思就是如果你想用它就要先安装一下 Python3，这个一会儿再说。下载内容不仅限于视频，还可以下载图片、音乐。具体介绍参见以下。 项目主页：https://github.com/soimort/you-getYou-Get 主页：https://you-get.org/You-Get 原版中文说明：https://github.com/soimort/you-get/wiki/中文说明/作者：soimort Step1 下载安装 Python3 你可以在这里 https://www.python.org/ 下载对应版本的 Python，虽然建议下载 Python 3.5.1。我现在用的是3.6.1版本的，暂时还没出现什么问题，所以版本问题不是主要的，只要是 Python3 就 OK。 在安装的时候,记得勾选 Add Python 3.5 to PATH.自己加很麻烦的. 安装之后，按 Win+R 键打开运行,然后输出 cmd，接着输出 python 回车。如果结果是这样就没什么问题了。 Step2 安装You-Get 和上面一样，打开cmd，输入以下命令回车 pip install you-get 输入命令，检测是否安装成功 you-get Step3 想下什么下什么**这里简单例举了一些软件支持的网站，如果想要看全部支持网站，可以到上面提到的原版中文说明里看。其中，第一列是视频、第二列是图片、第三列是音频。 还是打开 cmd 输入命令，例如我正在下载的动漫，就可以输入以下命令，很简单，就是 you-get 加上视频地址 you-get https://bangumi.bilibili.com/anime/836/play#64189 当然还有很多备选参数，先就不一一列举了，都可以在官方的中文说明中看到。举个例子吧，比如说我要查看这个视频都有什么格式可供下载。那我就可以加上 -i 这个参数 you-get -i https://bangumi.bilibili.com/anime/836/play#64189 一点小事 如果不加参数的话，默认下载路径是在 C:\Users\用户名 下。 其实我比较想要可以批量下载，但是好像还没有这个功能，听说可以写脚本文件然后下载，但是对于优酷上面的一些专辑列表是可以的。 就先简单的介绍一下，如果有时间，我可以添加一些东西，但是官方的说明应该是最好的。看那个就行了。]]></content>
+      <categories>
+        <category>tools</category>
+      </categories>
+      <tags>
+        <tag>you-get</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Farewell]]></title>
     <url>%2FEric%2F85919f93%2F</url>
     <content type="text"><![CDATA[永远太长，此刻太短 时间过去，面对面太遥远你也曾经许下诺言 如今流沙随风飘散 我从未拥有你一秒钟 却在心里失去你千千万万遍 世间的情与爱，大多不圆满 所以，我选择停步不前 再多永远抵不住一句再见 再见]]></content>
