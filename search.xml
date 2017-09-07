@@ -1,47 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[YOU-GET]]></title>
-    <url>%2FEric%2Fe3594913%2F</url>
-    <content type="text"><![CDATA[偶然的发现今天突然想要下载B站上的视频，就在找各种方法解决，找来找去都觉得太麻烦。然后就偶然碰到了这个东西–you-get。 you-get 是一个基于 Python3 的下载工具。意思就是如果你想用它就要先安装一下 Python3，这个一会儿再说。下载内容不仅限于视频，还可以下载图片、音乐。具体介绍参见以下。 项目主页：https://github.com/soimort/you-getYou-Get 主页：https://you-get.org/You-Get 原版中文说明：https://github.com/soimort/you-get/wiki/中文说明/作者：soimort Step1 下载安装 Python3 你可以在这里 https://www.python.org/ 下载对应版本的 Python，虽然建议下载 Python 3.5.1。我现在用的是3.6.1版本的，暂时还没出现什么问题，所以版本问题不是主要的，只要是 Python3 就 OK。 在安装的时候,记得勾选 Add Python 3.5 to PATH.自己加很麻烦的. 安装之后，按 Win+R 键打开运行,然后输出 cmd，接着输出 python 回车。如果结果是这样就没什么问题了。 Step2 安装You-Get 和上面一样，打开cmd，输入以下命令回车 pip install you-get 输入命令，检测是否安装成功 you-get Step3 想下什么下什么**这里简单例举了一些软件支持的网站，如果想要看全部支持网站，可以到上面提到的原版中文说明里看。其中，第一列是视频、第二列是图片、第三列是音频。 还是打开 cmd 输入命令，例如我正在下载的动漫，就可以输入以下命令，很简单，就是 you-get 加上视频地址 you-get https://bangumi.bilibili.com/anime/836/play#64189 当然还有很多备选参数，先就不一一列举了，都可以在官方的中文说明中看到。举个例子吧，比如说我要查看这个视频都有什么格式可供下载。那我就可以加上 -i 这个参数 you-get -i https://bangumi.bilibili.com/anime/836/play#64189 一点小事 如果不加参数的话，默认下载路径是在 C:\Users\用户名 下。 其实我比较想要可以批量下载，但是好像还没有这个功能，听说可以写脚本文件然后下载，但是对于优酷上面的一些专辑列表是可以的。 就先简单的介绍一下，如果有时间，我可以添加一些东西，但是官方的说明应该是最好的。看那个就行了。]]></content>
-      <categories>
-        <category>tools</category>
-      </categories>
-      <tags>
-        <tag>you-get</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Farewell]]></title>
-    <url>%2FEric%2F85919f93%2F</url>
-    <content type="text"><![CDATA[永远太长，此刻太短 时间过去，面对面太遥远你也曾经许下诺言 如今流沙随风飘散 我从未拥有你一秒钟 却在心里失去你千千万万遍 世间的情与爱，大多不圆满 所以，我选择停步不前 再多永远抵不住一句再见 再见]]></content>
-      <categories>
-        <category>Poet</category>
-      </categories>
-      <tags>
-        <tag>再见</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[一切的开始]]></title>
-    <url>%2FEric%2F5c3d21ef%2F</url>
-    <content type="text"><![CDATA[风掠过草原山峰，生命度尽，是我 夕阳渐沉，露着半边，透过山顶的树冠，光线铺在枯草地、水井、马棚，还有这家酒馆。酒肆的旗帜被映射的如血一般，在风中飘着。已是秋天了啊！ “客官，这是您要的酒，还有半碟牛肉，您看？还有什么要吩咐的吗？”酒馆中，小二边给角落的那个人上酒边说到。那人头也不抬，也不说话，拿起一块牛肉就往嘴里送，半截不忘给嘴里递口酒，活像几天没吃东西了。他的脸埋在阴影里看不清楚，看背影应是个少年。小二见他没说话的意思，正要走，又像想起了什么回头问道：“客人，天色不早了，不知您是否要住店呐？”。那少年却也不做声，掏出一些碎银子扔给了小二，继续埋头吃喝。小二但也识趣，给他安排了客房，便再也没有打搅他。 天色渐晚，月亮也升起来了，映着地面，显得煞白。月光透过半掩的窗户射进这家店。这时，店家已在忙着打烊的事情了。末了，看到角落还趴着一个人，正是黄昏的那个少年。店家心想也不是办法，便叫了两个伙计把他抬回屋里去了。扶他起来的时候，大家才看清楚他的面貌。眉目算生的俊逸，但不知为何总让人觉得有种消散不去的阴郁，再加上月光，显得尤为明显。最令人注目的还是之前被头发挡住的右眼，一道明显的刀痕竖在他的右眼眶，甚至连接着眼皮。伙计们也都怔了一下，想着这少年右眼必是废了。但也容不得他们多想，店家就在后面催了：“一群大男人，婆婆妈妈的干什么呢？”。这是这家店的老板娘，很多年前，一对夫妇不知从何处来到这里开了这家店，没几年，丈夫死了，老板娘从此成了老板。伙计几人正要架着他起来。隐隐约约看到腰间挂着个什么东西，像是一把剑，大部分被宽大的外衣挡住了。他们回头看看老板娘，“老板娘，这…”。老板娘边走过来嘴里边嚷到，“又怎么了？抬个醉死人也这般墨迹？”。走到跟前，掀开少年的衣服看了一眼，旋即慌忙又盖上。对着伙计们说到，“行啦行啦，一堆男人一点用都没有，这人交给我了，你们都回去睡吧，走啦走啦”。一众伙计互相看看，摸不着头脑，但也没办法，他们都知道老板娘的脾气，都走开了。这时，只剩下老板娘一人，她又把少年的外衣掀开，这次看真切了，是一把刀。 永历二十年，成家的天下，十年血战，建立王朝，年号永厉，太祖成启，后传三代，如今皇上，是成启三子，名成宇。自太祖始，禁刀拥剑，太祖皇帝登基第一道圣旨，凡用刀者，诛九族，没兵刃，凡铸刀者，诛九族，收器具。将收来的刀熔铸成一把剑，说是剑，实则一座山。据说，熔铸一月余，傍晚晚霞红似火，晚上月亮如染血，如果仔细听，风声似哭泣。从此，成家的天下再无刀影，再无刀法，再无铸刀人，再也无刀字。二十年过去，没人再见过刀，只是隐隐有人传说还有一把刀在，可惜无人见过，终成流言，像风中蝴蝶。]]></content>
-      <categories>
-        <category>story</category>
-      </categories>
-      <tags>
-        <tag>刀</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[For a breath I tarry]]></title>
-    <url>%2FEric%2F26637c81%2F</url>
-    <content type="text"><![CDATA[眼泪？沉默。From far, from eve and morningAnd yon twelve-winded skyThe stuff of life to knit meBlew hither: here am I.Now, for a breath I tarryNor yet disperse apartTake my hand quick and tell meWhat have you in your heart. Speak now, and I will answerHow shall I help you, sayEre to the wind’s twelve quartersI take my endless way.]]></content>
-      <categories>
-        <category>Poet</category>
-      </categories>
-      <tags>
-        <tag>life</tag>
-      </tags>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[YOU-GET]]></title>
+      <url>/Eric/e3594913/</url>
+      <content type="html"><![CDATA[<h2 id="偶然的发现"><a href="#偶然的发现" class="headerlink" title="偶然的发现"></a>偶然的发现</h2><p>今天突然想要下载B站上的视频，就在找各种方法解决，找来找去都觉得太麻烦。然后就偶然碰到了这个东西–you-get。</p>
+<p>you-get 是一个基于 Python3 的下载工具。意思就是如果你想用它就要先安装一下 Python3，这个一会儿再说。下载内容不仅限于视频，还可以下载图片、音乐。具体介绍参见以下。</p>
+<blockquote>
+<p>项目主页：<a href="https://github.com/soimort/you-get" target="_blank" rel="external">https://github.com/soimort/you-get</a><br>You-Get 主页：<a href="https://you-get.org/" target="_blank" rel="external">https://you-get.org/</a><br>You-Get 原版中文说明：<a href="https://github.com/soimort/you-get/wiki/中文说明/" target="_blank" rel="external">https://github.com/soimort/you-get/wiki/中文说明/</a><br>作者：soimort</p>
+</blockquote>
+<h2 id=""><a href="#" class="headerlink" title=""></a><a id="more"></a></h2><h3 id="Step1-下载安装-Python3"><a href="#Step1-下载安装-Python3" class="headerlink" title="Step1 下载安装 Python3"></a>Step1 下载安装 Python3</h3><ol>
+<li>你可以在这里 <a href="https://www.python.org/" title="python 官网" target="_blank" rel="external">https://www.python.org/</a> 下载对应版本的 <strong>Python</strong>，虽然建议下载 <strong>Python 3.5.1</strong>。我现在用的是3.6.1版本的，暂时还没出现什么问题，所以版本问题不是主要的，只要是 <strong>Python3</strong> 就 OK。</li>
+<li>在安装的时候,记得勾选 Add Python 3.5 to PATH.自己加很麻烦的.</li>
+<li>安装之后，按 Win+R 键打开运行,然后输出 cmd，接着输出 python 回车。如果结果是这样就没什么问题了。<br><img src="/images/python.png" alt=""></li>
+</ol>
+<h3 id="Step2-安装You-Get"><a href="#Step2-安装You-Get" class="headerlink" title="Step2 安装You-Get"></a>Step2 安装You-Get</h3><ol>
+<li><p>和上面一样，打开<strong>cmd</strong>，输入以下命令回车</p>
+<blockquote>
+<p>pip install you-get</p>
+</blockquote>
+</li>
+<li><p>输入命令，检测是否安装成功</p>
+<blockquote>
+<p>you-get</p>
+</blockquote>
+</li>
+</ol>
+<p><img src="/images/you-get.png" alt=""></p>
+<h3 id="Step3-想下什么下什么"><a href="#Step3-想下什么下什么" class="headerlink" title="Step3 想下什么下什么**"></a>Step3 想下什么下什么<em>**</em></h3><p>这里简单例举了一些软件支持的网站，如果想要看全部支持网站，可以到上面提到的原版中文说明里看。其中，第一列是视频、第二列是图片、第三列是音频。</p>
+<p><img src="/images/you-get-support.png" alt=""></p>
+<ol>
+<li><p>还是打开 <strong>cmd</strong> 输入命令，例如我正在下载的动漫，就可以输入以下命令，很简单，就是 <strong>you-get</strong> 加上视频地址</p>
+<blockquote>
+<p> you-get <a href="https://bangumi.bilibili.com/anime/836/play#64189" target="_blank" rel="external">https://bangumi.bilibili.com/anime/836/play#64189</a></p>
+</blockquote>
+</li>
+<li><p>当然还有很多备选参数，先就不一一列举了，都可以在官方的中文说明中看到。举个例子吧，比如说我要查看这个视频都有什么格式可供下载。那我就可以加上 <strong>-i</strong> 这个参数</p>
+<blockquote>
+<p>you-get -i <a href="https://bangumi.bilibili.com/anime/836/play#64189" target="_blank" rel="external">https://bangumi.bilibili.com/anime/836/play#64189</a></p>
+</blockquote>
+</li>
+</ol>
+<p><img src="/images/-i-command.png" alt=""></p>
+<h3 id="一点小事"><a href="#一点小事" class="headerlink" title="一点小事"></a>一点小事</h3><ol>
+<li>如果不加参数的话，默认下载路径是在 <strong>C:\Users\用户名</strong> 下。</li>
+<li>其实我比较想要可以批量下载，但是好像还没有这个功能，听说可以写脚本文件然后下载，但是对于优酷上面的一些专辑列表是可以的。</li>
+<li>就先简单的介绍一下，如果有时间，我可以添加一些东西，但是官方的说明应该是最好的。看那个就行了。</li>
+</ol>
+]]></content>
+      
+        <categories>
+            
+            <category> tools </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> you-get </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Farewell]]></title>
+      <url>/Eric/85919f93/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>永远太长，此刻太短</p>
+<p>时间过去，面对面太遥远<br><a id="more"></a><br>你也曾经许下诺言</p>
+<p>如今流沙随风飘散</p>
+<p>我从未拥有你一秒钟</p>
+<p>却在心里失去你千千万万遍</p>
+<p>世间的情与爱，大多不圆满</p>
+<p>所以，我选择停步不前</p>
+<p>再多永远抵不住一句再见</p>
+<p>再见</p>
+<p><img src="/images/hello.jpg" alt=""></p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> Poet </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 再见 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一切的开始]]></title>
+      <url>/Eric/5c3d21ef/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center">风掠过草原山峰，生命度尽，是我</blockquote>
+
+
+<p>夕阳渐沉，露着半边，透过山顶的树冠，光线铺在枯草地、水井、马棚，还有这家酒馆。酒肆的旗帜被映射的如血一般，在风中飘着。已是秋天了啊！<br><a id="more"></a></p>
+<p>“客官，这是您要的酒，还有半碟牛肉，您看？还有什么要吩咐的吗？”酒馆中，小二边给角落的那个人上酒边说到。那人头也不抬，也不说话，拿起一块牛肉就往嘴里送，半截不忘给嘴里递口酒，活像几天没吃东西了。他的脸埋在阴影里看不清楚，看背影应是个少年。小二见他没说话的意思，正要走，又像想起了什么回头问道：“客人，天色不早了，不知您是否要住店呐？”。那少年却也不做声，掏出一些碎银子扔给了小二，继续埋头吃喝。小二但也识趣，给他安排了客房，便再也没有打搅他。</p>
+<p>天色渐晚，月亮也升起来了，映着地面，显得煞白。月光透过半掩的窗户射进这家店。这时，店家已在忙着打烊的事情了。末了，看到角落还趴着一个人，正是黄昏的那个少年。店家心想也不是办法，便叫了两个伙计把他抬回屋里去了。扶他起来的时候，大家才看清楚他的面貌。眉目算生的俊逸，但不知为何总让人觉得有种消散不去的阴郁，再加上月光，显得尤为明显。最令人注目的还是之前被头发挡住的右眼，一道明显的刀痕竖在他的右眼眶，甚至连接着眼皮。伙计们也都怔了一下，想着这少年右眼必是废了。但也容不得他们多想，店家就在后面催了：“一群大男人，婆婆妈妈的干什么呢？”。这是这家店的老板娘，很多年前，一对夫妇不知从何处来到这里开了这家店，没几年，丈夫死了，老板娘从此成了老板。伙计几人正要架着他起来。隐隐约约看到腰间挂着个什么东西，像是一把剑，大部分被宽大的外衣挡住了。他们回头看看老板娘，“老板娘，这…”。老板娘边走过来嘴里边嚷到，“又怎么了？抬个醉死人也这般墨迹？”。走到跟前，掀开少年的衣服看了一眼，旋即慌忙又盖上。对着伙计们说到，“行啦行啦，一堆男人一点用都没有，这人交给我了，你们都回去睡吧，走啦走啦”。一众伙计互相看看，摸不着头脑，但也没办法，他们都知道老板娘的脾气，都走开了。这时，只剩下老板娘一人，她又把少年的外衣掀开，这次看真切了，是一把刀。</p>
+<p>永历二十年，成家的天下，十年血战，建立王朝，年号永厉，太祖成启，后传三代，如今皇上，是成启三子，名成宇。自太祖始，禁刀拥剑，太祖皇帝登基第一道圣旨，凡用刀者，诛九族，没兵刃，凡铸刀者，诛九族，收器具。将收来的刀熔铸成一把剑，说是剑，实则一座山。据说，熔铸一月余，傍晚晚霞红似火，晚上月亮如染血，如果仔细听，风声似哭泣。从此，成家的天下再无刀影，再无刀法，再无铸刀人，再也无刀字。二十年过去，没人再见过刀，只是隐隐有人传说还有一把刀在，可惜无人见过，终成流言，像风中蝴蝶。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> story </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 刀 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[For a breath I tarry]]></title>
+      <url>/Eric/26637c81/</url>
+      <content type="html"><![CDATA[<p><blockquote class="blockquote-center">眼泪？沉默。</blockquote><br>From far, from eve and morning<br>And yon twelve-winded sky<br>The stuff of life to knit me<br>Blew hither: here am I.<br><a id="more"></a><br>Now, for a breath I tarry<br>Nor yet disperse apart<br>Take my hand quick and tell me<br>What have you in your heart.    </p>
+<p>Speak now, and I will answer<br>How shall I help you, say<br>Ere to the wind’s twelve quarters<br>I take my endless way. </p>
+]]></content>
+      
+        <categories>
+            
+            <category> Poet </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> life </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
 </search>
